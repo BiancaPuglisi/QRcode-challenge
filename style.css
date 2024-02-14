@@ -20,14 +20,14 @@ body{
 .card{
     background-color: white;
     padding: 18px;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
     margin: 0 1em;
 }
 
 .card img{
     width: 100%;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .text {
